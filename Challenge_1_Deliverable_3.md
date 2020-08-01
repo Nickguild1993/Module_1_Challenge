@@ -25,8 +25,15 @@ One issue I had to overcome was figuring out the formulas for the **Outcomes Bas
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+* The best time to launch a theater campaign kickstarter seems to be during the end of spring and beginning of summer. The peak month for successful campaigns is May, in which nearly 67% of the total campaigns launched were successful.
+* The worst time to launch a theater campaign kickstarter was during the beginning of fall to the start of winter.  October and December were the worst during that timeframe, with failure rates of 43.48% and 46.67% respectively. 
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
+* One limitation is that there are very few data points for the larger *Goal* ranges.  Campaigns with goals over $25,000 are much less prevalent than campaigns with goals less than $25,000.  The limited sample size in that range causes the outcomes of those campaigns to less external validity because it's difficult to say if those results are outliers. For example, within the goal range of $45,000 - $49,999 we have one campaign that meets that criteria.  It's a campaign that failed, but does that mean that all campaigns that have a goal that falls within that range are destined to fail? That's very unlikely, but if you just looked at this dataset, one might think that if they don't consider the sample size. If we had a more equal frequency distrubtion of campaigns for each range, it would be much easier to be confident on drawing conclusions about the effect of *Goal Amount* vis-a-vis *Campaign Outcome*.
+
 - What are some other possible tables and/or graphs that we could create?
+
+* A bar chart would be useful to visualize the distrubition of campaign outcomes based on their goals. ***ATTACH BAR CHART HERE***

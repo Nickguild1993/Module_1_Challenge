@@ -46,7 +46,7 @@ One issue I had to overcome was figuring out the formulas for the **Outcomes Bas
 * A bar chart would be helpful to visually breakdown the distribution of campaign outcomes based on their respective launch dates.
 ![Alt Text](https://github.com/Nickguild1993/Module_1_Challenge/blob/master/Theater_outcomes_Vs_LaunchBAR.png)
 
-* A bar chart would also be useful to visualize the distribution of campaign outcomes based on their goals.
+* A bar chart would also be useful to visualize the distribution of campaign outcomes based on their goals. The x-axis is the range of campaign fundraising goals, and the y-axis is the number of campaigns.
 ![alt text](https://github.com/Nickguild1993/Kickstarter-Analysis/blob/master/Outcomes_Vs_Goals_BAR.png)
 
 

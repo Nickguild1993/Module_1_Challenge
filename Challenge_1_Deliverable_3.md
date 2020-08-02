@@ -40,4 +40,5 @@ One issue I had to overcome was figuring out the formulas for the **Outcomes Bas
 
 - What are some other possible tables and/or graphs that we could create?
 
-* A bar chart would be useful to visualize the distrubition of campaign outcomes based on their goals. ***ATTACH BAR CHART HERE***
+* A bar chart would be useful to visualize the distrubition of campaign outcomes based on their goals.
+![](images/Outcomes_Vs_Goals_BAR.png) 

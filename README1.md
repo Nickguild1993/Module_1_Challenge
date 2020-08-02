@@ -26,7 +26,7 @@ One issue I had to overcome was figuring out the formulas for the **Outcomes Bas
 
 ## Results
 
-### Conclusions drawn from the Outcomes based on Launch date Analysis.
+### Conclusions drawn from the Outcomes based on Launch Date Analysis.
 
 * The best time to launch a theater campaign kickstarter seems to be between the end of spring and beginning of summer. The peak month for successful campaigns is May, in which nearly 67% of the total campaigns launched were successful.
 * The worst time to launch a theater campaign kickstarter was during the beginning of fall to the start of winter.  October and December were the worst during that timeframe, with failure rates of 43.48% and 46.67% respectively. 

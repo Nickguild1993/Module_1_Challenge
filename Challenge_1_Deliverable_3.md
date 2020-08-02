@@ -41,5 +41,7 @@ One issue I had to overcome was figuring out the formulas for the **Outcomes Bas
 - What are some other possible tables and/or graphs that we could create?
 
 * A bar chart would be useful to visualize the distrubition of campaign outcomes based on their goals.
-![](module_1_challenge/Outcomes_Vs_Goals_BAR.png) 
+![alt text](https://github.com/Nickguild1993/Kickstarter-Analysis/blob/master/Outcomes_Vs_Goals_BAR.png)
+
+
 

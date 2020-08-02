@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of the project was to analyze how similar campaigns to Louise’s faired vis-à-vis their respective launch dates and fundraising goals.
+The purpose of the project was to analyze how similar campaigns to Louise’s faired vis-à-vis their respective launch dates and fundraising goals and how those variables affected their outcomes.
 
 ## Analysis and Challenges
 **Analysis for Deliverable Number One**For analysing the relationship between camapign outcomes (Successful, Failed, and canceled) and their launch dates, I used a pivot table to extract the variables I was looking for from the data set.  Once I had that information in a pivot table, I filtered the table by *parent category* (specifically looking at theater) and *year*.  That allowed me to look at the outcomes of campaigns over the year (grouped by month) that were of the same type as Louise's- theater.
@@ -29,6 +29,10 @@ One issue I had to overcome was figuring out the formulas for the **Outcomes Bas
 * The worst time to launch a theater campaign kickstarter was during the beginning of fall to the start of winter.  October and December were the worst during that timeframe, with failure rates of 43.48% and 46.67% respectively. 
 
 - What can you conclude about the Outcomes based on Goals?
+
+* Campaigns that had a goal under $5,000 had the highest success rate by far, with over 72% of campaigns that fell in that range being successful.  They are also the most heavily represented groups in terms of campaigns, which means that the data from those ranges (Under $1,000 and $1,000-$4,999) are the most reliable to extrapolate from.  
+
+* Overall, the higher the campaign goal is, the less likely it is to be succesful.  However, it should be stated that this conclusion comes with two caveats. Firstly, this relationship isn't linear, and secondly, some of the higher ranges like the $35,000-$39,999 and $40,000-$44,9999 groups go against this conclusion. However, those specific ranges have such few *total* campaigns that fall within them, (6 and 3 campaigns, respectively) it is likely given more data points within those ranges would smooth out the distribution of successes and failures, leading to a result that is more in line with the conclusion that as campaign goal increases, success rate decreases.
 
 - What are some limitations of this dataset?
 
